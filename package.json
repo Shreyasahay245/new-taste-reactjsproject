@@ -1,7 +1,7 @@
 {
  
   "name": "cp_buddies",
-   "homepage": "Shreyasahay245.github.io",
+ 
   "version": "0.1.0",
  
   "private": true,
@@ -49,9 +49,8 @@
   "test": "react-scripts test",
  
    
-  "eject": "react-scripts eject",
+  "eject": "react-scripts eject"
 
-  "deploy": "npm run build"
  
   },
  
